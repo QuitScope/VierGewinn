@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AuraK\\OneDrive\\Dokumente\\GitHub\\VierGewinnt\\VierGewinnt\\VierGewinnt\\VierGewinnt.csproj": {}
+    "C:\\Users\\AuraK\\source\\repos\\VierGewinnt\\VierGewinnt\\VierGewinnt.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AuraK\\OneDrive\\Dokumente\\GitHub\\VierGewinnt\\VierGewinnt\\VierGewinnt\\VierGewinnt.csproj": {
+    "C:\\Users\\AuraK\\source\\repos\\VierGewinnt\\VierGewinnt\\VierGewinnt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AuraK\\OneDrive\\Dokumente\\GitHub\\VierGewinnt\\VierGewinnt\\VierGewinnt\\VierGewinnt.csproj",
+        "projectUniqueName": "C:\\Users\\AuraK\\source\\repos\\VierGewinnt\\VierGewinnt\\VierGewinnt.csproj",
         "projectName": "VierGewinnt",
-        "projectPath": "C:\\Users\\AuraK\\OneDrive\\Dokumente\\GitHub\\VierGewinnt\\VierGewinnt\\VierGewinnt\\VierGewinnt.csproj",
+        "projectPath": "C:\\Users\\AuraK\\source\\repos\\VierGewinnt\\VierGewinnt\\VierGewinnt.csproj",
         "packagesPath": "C:\\Users\\AuraK\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AuraK\\OneDrive\\Dokumente\\GitHub\\VierGewinnt\\VierGewinnt\\VierGewinnt\\obj\\",
+        "outputPath": "C:\\Users\\AuraK\\source\\repos\\VierGewinnt\\VierGewinnt\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
