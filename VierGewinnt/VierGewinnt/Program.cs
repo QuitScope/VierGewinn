@@ -97,7 +97,7 @@ namespace VierGewinnt
         {
             Board board = NewGame();
 
-            //Test 2
+            //Test 
         }
     }
 }
