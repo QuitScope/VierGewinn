@@ -96,6 +96,8 @@ namespace VierGewinnt
         static void Main(string[] args)
         {
             Board board = NewGame();
+
+            //Test
         }
     }
 }
