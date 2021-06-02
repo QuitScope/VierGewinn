@@ -1,0 +1,16 @@
+C:\Users\AuraK\source\repos\VierGewinnt\VierGewinnt\bin\Debug\net5.0\VierGewinnt.exe
+C:\Users\AuraK\source\repos\VierGewinnt\VierGewinnt\bin\Debug\net5.0\VierGewinnt.deps.json
+C:\Users\AuraK\source\repos\VierGewinnt\VierGewinnt\bin\Debug\net5.0\VierGewinnt.runtimeconfig.json
+C:\Users\AuraK\source\repos\VierGewinnt\VierGewinnt\bin\Debug\net5.0\VierGewinnt.runtimeconfig.dev.json
+C:\Users\AuraK\source\repos\VierGewinnt\VierGewinnt\bin\Debug\net5.0\VierGewinnt.dll
+C:\Users\AuraK\source\repos\VierGewinnt\VierGewinnt\bin\Debug\net5.0\ref\VierGewinnt.dll
+C:\Users\AuraK\source\repos\VierGewinnt\VierGewinnt\bin\Debug\net5.0\VierGewinnt.pdb
+C:\Users\AuraK\source\repos\VierGewinnt\VierGewinnt\obj\Debug\net5.0\VierGewinnt.csprojAssemblyReference.cache
+C:\Users\AuraK\source\repos\VierGewinnt\VierGewinnt\obj\Debug\net5.0\VierGewinnt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AuraK\source\repos\VierGewinnt\VierGewinnt\obj\Debug\net5.0\VierGewinnt.AssemblyInfoInputs.cache
+C:\Users\AuraK\source\repos\VierGewinnt\VierGewinnt\obj\Debug\net5.0\VierGewinnt.AssemblyInfo.cs
+C:\Users\AuraK\source\repos\VierGewinnt\VierGewinnt\obj\Debug\net5.0\VierGewinnt.csproj.CoreCompileInputs.cache
+C:\Users\AuraK\source\repos\VierGewinnt\VierGewinnt\obj\Debug\net5.0\VierGewinnt.dll
+C:\Users\AuraK\source\repos\VierGewinnt\VierGewinnt\obj\Debug\net5.0\ref\VierGewinnt.dll
+C:\Users\AuraK\source\repos\VierGewinnt\VierGewinnt\obj\Debug\net5.0\VierGewinnt.pdb
+C:\Users\AuraK\source\repos\VierGewinnt\VierGewinnt\obj\Debug\net5.0\VierGewinnt.genruntimeconfig.cache
